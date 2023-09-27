@@ -15,7 +15,11 @@ Error boundaries do not catch errors for:
 ## 3) Error Boundary Architecture
 ![image](https://github.com/denitiawan/research-react-error-boundary/assets/11941308/0889962b-58ef-4a8f-b46c-b43049709ed7)
 
-## 4) Screen Shoot Error Boundary Implementation
+## 4) Screenshoot Fallback-UI from Error Boundary
+![image](https://github.com/denitiawan/research-react-error-boundary/assets/11941308/354ab832-28be-44c4-b975-793fc3112cef)
+![image](https://github.com/denitiawan/research-react-error-boundary/assets/11941308/5d459daa-160b-482c-8d82-68145add00f6)
+
+
 
 
 ## 5) Examples
